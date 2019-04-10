@@ -1,0 +1,33 @@
+╔═══════════════════════════════════════════╗
+║ Stars Wars Destiny Deck Building    V1.0  ║
+║ Sinel V.  2018                            ║
+╠═══════════════════════════════════════════╝
+╠═══════════════════════════════╗
+║Derniere Mise a jour : V. 1.0  ║
+╠═══════════════════════════════╝
+║
+║	- Adaptation de l'interface (Style sombre).
+║	- Correction de bug d'enregistrement.
+║	- Ajout d'informations sur les decks lors de la selection.
+║	- Changement du type d'enregistrement des decks.
+║	- Meilleur génération de la base de donnée.
+║	- Optimisation de l'affichage de la liste de carte.
+║	- Réadaptation des régles du deck building.
+║
+╠═══════════════════════════════╗
+║Ancienne Mise a jour : V. 0.6  ║
+╠═══════════════════════════════╝
+║
+║	- Creation de l'interface.
+║	- Génération auto de la base de donnée.
+║
+╠════════════════════════════════╗
+║A Venir  (Fix et nouveautes) :  ║
+╠════════════════════════════════╝
+║
+║
+╠═════════════════════════════╗
+║Contact :                    ║
+║    Sinel Vincent            ║
+║vsprogramme.contact@gmail.com║
+╚═════════════════════════════╝
