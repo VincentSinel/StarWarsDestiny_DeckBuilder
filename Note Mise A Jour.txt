@@ -1,9 +1,20 @@
 ╔═══════════════════════════════════════════╗
-║ Stars Wars Destiny Deck Building    V1.0  ║
+║ Stars Wars Destiny Deck Building    V2.0  ║
 ║ Sinel V.  2018                            ║
 ╠═══════════════════════════════════════════╝
 ╠═══════════════════════════════╗
-║Derniere Mise a jour : V. 1.0  ║
+║Derniere Mise a jour : V. 1.1  ║
+╠═══════════════════════════════╝
+║
+║	- Correction de bug mineur.
+║	- Ajout de l'option dupliquer dans la liste de carte.
+║	- Ajout de la conservation des regle de tri.
+║	- Ajout du nombre de carte total dans la liste de carte et dans les info du deck.
+║	- Ajout du nombre de dé total dans la liste du deck.
+║	- Inversion onglet Terrain/Liste Carte.
+║
+╠═══════════════════════════════╗
+║Ancienne Mise a jour : V. 1.0  ║
 ╠═══════════════════════════════╝
 ║
 ║	- Adaptation de l'interface (Style sombre).
