@@ -1,9 +1,23 @@
 ╔═══════════════════════════════════════════╗
-║ Stars Wars Destiny Deck Building    V2.0  ║
+║ Stars Wars Destiny Deck Building    V1.3  ║
 ║ Sinel V.  2018                            ║
 ╠═══════════════════════════════════════════╝
 ╠═══════════════════════════════╗
-║Derniere Mise a jour : V. 1.1  ║
+║Derniere Mise a jour : V. 1.3  ║
+╠═══════════════════════════════╝
+║
+║	- Changement du systeme de mise a jour auto.
+║	- Ajout du menu à propos.
+║
+╠═══════════════════════════════╗
+║Derniere Mise a jour : V. 1.2  ║
+╠═══════════════════════════════╝
+║
+║	- Changement du menu de téléchargement de la base de donnée.
+║	- Réadaptation des menus pour les petits écrans.
+║
+╠═══════════════════════════════╗
+║Ancienne Mise a jour : V. 1.1  ║
 ╠═══════════════════════════════╝
 ║
 ║	- Correction de bug mineur.
