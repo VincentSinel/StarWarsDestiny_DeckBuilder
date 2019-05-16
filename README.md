@@ -10,6 +10,7 @@ Aucune installation nécessaire le logiciel peut-être lancé depuis n'importe q
 
 ## Librairie
 
+* [AutoUpdater.Net](https://github.com/ravibpatel/AutoUpdater.NET) - Pour la mise à jour automatique
 * [ItsAllAboutTheXaml](https://itsallaboutthexaml.blogspot.com/) - Pour des éléments Xaml
 
 ## Version
