@@ -1,10 +1,10 @@
-╔═══════════════════════════════════════════╗
-║ Stars Wars Destiny Deck Building    V2.1  ║
-║ Sinel V.  2018                            ║
-╠═══════════════════════════════════════════╝
-╠═══════════════════════════════╗
-║Derniere Mise a jour : V. 2.1  ║
-╠═══════════════════════════════╝
+╔═════════════════════════════════════════════╗
+║ Stars Wars Destiny Deck Building    V2.1.1  ║
+║ Sinel V.  2018                              ║
+╠═════════════════════════════════════════════╝
+╠═════════════════════════════════╗
+║Derniere Mise a jour : V. 2.1.1  ║
+╠═════════════════════════════════╝
 ║
 ║	- Une fenetre s'affiche désormais si une erreur lors de l'assignation des informations d'une carte est détecté.
 ║
