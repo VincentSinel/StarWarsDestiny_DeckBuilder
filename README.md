@@ -1,12 +1,12 @@
 # Stars Wars Destiny Deck Builder<a href="https://github.com/VincentSinel"><img align="right" src="https://raw.githubusercontent.com/VincentSinel/Image/master/Icone.png" width="233" style="margin:0px 30px" alt="VS Programme"></a>
 
-Logiciel de Deck Building pour le jeu de carte Stars wars destiny.
+Logiciel de Deck Building pour le jeu de cartes Stars Wars Destiny.
 
-Les informations sont tirer du site http://fr.swdestinydb.com
+Les informations sont tirées du site http://fr.swdestinydb.com
 
 ## Installation
 
-Aucune installation nécessaire le logiciel peut-être lancé depuis n'importe quelle clé USB
+Aucune installation nécessaire, le logiciel peut-être lancé depuis n'importe quelle clé USB.
 
 ## Librairie
 
